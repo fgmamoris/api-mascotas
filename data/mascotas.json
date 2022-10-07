@@ -82,7 +82,7 @@
     "caracter": ["jugueton"],
     "enfermedades": "ninguna",
     "comida": ["excellent"],
-    "img": "https://pixabay.com/photos/labrador-retriever-dog-pet-1210559/",
+    "img": "https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559_960_720.jpg",
     "adoptado": false
   },
   {
@@ -125,7 +125,7 @@
     "caracter": ["Tímida"],
     "enfermedades": "Ninguna",
     "comida": ["Carne cruda"],
-    "img": "imagen: https://i.picsum.photos/id/237/3500/2095.jpg?hmac=y2n_cflHFKpQwLOL1SSCtVDqL8NmOnBzEW7LYKZ-z_o",
+    "img": " https://i.picsum.photos/id/237/3500/2095.jpg?hmac=y2n_cflHFKpQwLOL1SSCtVDqL8NmOnBzEW7LYKZ-z_o",
     "adoptado": false
   },
   {
@@ -168,7 +168,7 @@
     "caracter": ["mimoso"],
     "enfermedades": "no",
     "comida": ["purina", "pollo"],
-    "img": "https://pixabay.com/es/photos/gato-rostro-ojos-retrato-1455468/",
+    "img": "https://cdn.pixabay.com/photo/2016/06/14/00/14/cat-1455468_960_720.jpg",
     "adoptado": false
   },
   {
@@ -694,7 +694,7 @@
     "caracter": ["docil"],
     "enfermedades": "alergia",
     "comida": ["Purina", "atun"],
-    "img": "https://pixabay.com/es/photos/gato-animal-animales-1136084/",
+    "img": "https://cdn.pixabay.com/photo/2016/01/12/16/50/cat-1136084_960_720.jpg",
     "adoptado": true
   }
 ]
